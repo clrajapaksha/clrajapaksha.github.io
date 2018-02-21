@@ -7,30 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Chathuranga Rajapaksha</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://clrajapaksha.github.io/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title></title>
-      <link>https://clrajapaksha.github.io/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://clrajapaksha.github.io/about/</guid>
-      <description>Biography Chathuranga Rajapaksha is a graduate of University of Moratuwa, Sri Lanka. His research interests include Artificial Intelligence, Machine Learning and Deep Learning. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://clrajapaksha.github.io/about/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://clrajapaksha.github.io/about/about/</guid>
-      <description>Biography Chathuranga Rajapaksha is a graduate of University of Moratuwa, Sri Lanka. His research interests include Artificial Intelligence, Machine Learning and Deep Learning. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet.</description>
-    </item>
     
     <item>
       <title>Creating a New Theme</title>
@@ -55,10 +35,10 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
     
     <item>
       <title>About</title>
-      <link>https://clrajapaksha.github.io/about/bio/</link>
+      <link>https://clrajapaksha.github.io/about/about/</link>
       <pubDate>Sat, 13 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://clrajapaksha.github.io/about/bio/</guid>
+      <guid>https://clrajapaksha.github.io/about/about/</guid>
       <description>Chathuranga Lakmal Rajapaksha Software Engineer, AI and Machine Learning Researcher
 I am very passionate about following topics,
  Artificial Intelligence Machine Learning Deep Learning  You can find my projects and contribute on GitHub.
@@ -76,15 +56,6 @@ Happy Coding!!!</description>
       <description> If you want to contact me, you can send me an e-mail
 Social media I am on socail media and we can discuss there:
  Twitter LinkedIn Google+  </description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://clrajapaksha.github.io/contact/index/</link>
-      <pubDate>Fri, 12 May 2017 18:34:26 +0530</pubDate>
-      
-      <guid>https://clrajapaksha.github.io/contact/index/</guid>
-      <description>chathuranga.11@cse.mrt.ac.lk</description>
     </item>
     
     <item>
@@ -128,4 +99,3 @@ Follow the following steps:
     
   </channel>
 </rss>
-
