@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contacts on Chathuranga&#39;s Blog</title>
+    <link>https://clrajapaksha.github.io/contact/</link>
+    <description>Recent content in Contacts on Chathuranga&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Chathuranga Rajapaksha</copyright>
+    <lastBuildDate>Fri, 12 May 2017 18:34:26 +0530</lastBuildDate>
+    
+	<atom:link href="https://clrajapaksha.github.io/contact/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contact</title>
+      <link>https://clrajapaksha.github.io/contact/index/</link>
+      <pubDate>Fri, 12 May 2017 18:34:26 +0530</pubDate>
+      
+      <guid>https://clrajapaksha.github.io/contact/index/</guid>
+      <description>chathuranga.11@cse.mrt.ac.lk</description>
+    </item>
+    
+  </channel>
+</rss>

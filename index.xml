@@ -6,62 +6,102 @@
     <description>Recent content on Chathuranga&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2016 Chathuranga Rajapaksha</copyright>
-    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
+    <copyright>Chathuranga Rajapaksha</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://clrajapaksha.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title></title>
+      <link>https://clrajapaksha.github.io/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://clrajapaksha.github.io/about/</guid>
+      <description>Biography Chathuranga Rajapaksha is a graduate of University of Moratuwa, Sri Lanka. His research interests include Artificial Intelligence, Machine Learning and Deep Learning. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://clrajapaksha.github.io/about/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://clrajapaksha.github.io/about/about/</guid>
+      <description>Biography Chathuranga Rajapaksha is a graduate of University of Moratuwa, Sri Lanka. His research interests include Artificial Intelligence, Machine Learning and Deep Learning. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet.</description>
+    </item>
+    
+    <item>
       <title>Creating a New Theme</title>
-      <link>https://clrajapaksha.github.io/post/creating-a-new-theme/</link>
+      <link>https://clrajapaksha.github.io/samples/2/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://clrajapaksha.github.io/post/creating-a-new-theme/</guid>
+      <guid>https://clrajapaksha.github.io/samples/2/</guid>
       <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
 We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
     </item>
     
     <item>
       <title>Migrate to Hugo from Jekyll</title>
-      <link>https://clrajapaksha.github.io/post/migrate-from-jekyll/</link>
+      <link>https://clrajapaksha.github.io/samples/4/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://clrajapaksha.github.io/post/migrate-from-jekyll/</guid>
+      <guid>https://clrajapaksha.github.io/samples/4/</guid>
       <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
 ▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
 ▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
     </item>
     
     <item>
-      <title>Test1</title>
-      <link>https://clrajapaksha.github.io/test/</link>
-      <pubDate>Fri, 12 May 2017 00:00:00 +0000</pubDate>
+      <title>About</title>
+      <link>https://clrajapaksha.github.io/about/bio/</link>
+      <pubDate>Sat, 13 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://clrajapaksha.github.io/test/</guid>
-      <description> date: 2014-03-10 linktitle: test link title menu: main: name: Test prev: /tutorials/mathjax title: test title
-weight: 10 </description>
+      <guid>https://clrajapaksha.github.io/about/bio/</guid>
+      <description>Chathuranga Lakmal Rajapaksha Software Engineer, AI and Machine Learning Researcher
+I am very passionate about following topics,
+ Artificial Intelligence Machine Learning Deep Learning  You can find my projects and contribute on GitHub.
+Have questions or suggestions? Feel free to ask.
+Thanks for reading!
+Happy Coding!!!</description>
     </item>
     
     <item>
-      <title>About Hugo</title>
-      <link>https://clrajapaksha.github.io/about/</link>
-      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      <title>Contact</title>
+      <link>https://clrajapaksha.github.io/blog/contact/</link>
+      <pubDate>Fri, 12 May 2017 18:34:26 +0530</pubDate>
       
-      <guid>https://clrajapaksha.github.io/about/</guid>
-      <description>Hugo is a static site engine written in Go.
-It makes use of a variety of open source projects including:
- Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.
-Setup Some fun facts about Hugo:
- Built in Go Loosely inspired by Jekyll Primarily developed by spf13 on the train while commuting to and from Manhattan. Coded in Vim using spf13-vim  Have questions or suggestions?</description>
+      <guid>https://clrajapaksha.github.io/blog/contact/</guid>
+      <description> If you want to contact me, you can send me an e-mail
+Social media I am on socail media and we can discuss there:
+ Twitter LinkedIn Google+  </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://clrajapaksha.github.io/contact/index/</link>
+      <pubDate>Fri, 12 May 2017 18:34:26 +0530</pubDate>
+      
+      <guid>https://clrajapaksha.github.io/contact/index/</guid>
+      <description>chathuranga.11@cse.mrt.ac.lk</description>
+    </item>
+    
+    <item>
+      <title>Welcome to machine age...!!!</title>
+      <link>https://clrajapaksha.github.io/blog/home/</link>
+      <pubDate>Fri, 12 May 2017 18:34:26 +0530</pubDate>
+      
+      <guid>https://clrajapaksha.github.io/blog/home/</guid>
+      <description>As we are Living in a most exciting time in history, we are very much fortunate to use the amazing technologies that would be considered as only exists in science fictions few decades back. This happens because of the fast advancement of artificial intelligence which has been severely blew up the tech world. Many tech giants around the world believe that machine learning is the next big thing and they dive into their new breakthroughs using machine learning heavily.</description>
     </item>
     
     <item>
       <title>(Hu)go Template Primer</title>
-      <link>https://clrajapaksha.github.io/post/goisforlovers/</link>
+      <link>https://clrajapaksha.github.io/samples/1/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://clrajapaksha.github.io/post/goisforlovers/</guid>
+      <guid>https://clrajapaksha.github.io/samples/1/</guid>
       <description>&lt;p&gt;Hugo uses the excellent &lt;a href=&#34;http://golang.org/&amp;gt;&#34; target=&#34;_blank&#34;&gt;go&lt;/a&gt; &lt;a href=&#34;http://golang.org/pkg/html/template/&amp;gt;&#34; target=&#34;_blank&#34;&gt;html/template&lt;/a&gt; library for
 its template engine. It is an extremely lightweight engine that provides a very
 small amount of logic. In our experience that it is just the right amount of
@@ -74,10 +114,10 @@ similarities in go templates.&lt;/p&gt;
     
     <item>
       <title>Getting Started with Hugo</title>
-      <link>https://clrajapaksha.github.io/post/hugoisforlovers/</link>
+      <link>https://clrajapaksha.github.io/samples/3/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://clrajapaksha.github.io/post/hugoisforlovers/</guid>
+      <guid>https://clrajapaksha.github.io/samples/3/</guid>
       <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
 Save it somewhere specific as we will be using it in the next step.
 More complete instructions are available at installing hugo

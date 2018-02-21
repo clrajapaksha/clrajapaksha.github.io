@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Chathuranga&#39;s Blog</title>
+    <link>https://clrajapaksha.github.io/about/</link>
+    <description>Recent content in Abouts on Chathuranga&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Chathuranga Rajapaksha</copyright>
+    <lastBuildDate>Sat, 13 May 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://clrajapaksha.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://clrajapaksha.github.io/about/bio/</link>
+      <pubDate>Sat, 13 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://clrajapaksha.github.io/about/bio/</guid>
+      <description>Chathuranga Lakmal Rajapaksha Software Engineer, AI and Machine Learning Researcher
+I am very passionate about following topics,
+ Artificial Intelligence Machine Learning Deep Learning  You can find my projects and contribute on GitHub.
+Have questions or suggestions? Feel free to ask.
+Thanks for reading!
+Happy Coding!!!</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://clrajapaksha.github.io/about/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://clrajapaksha.github.io/about/about/</guid>
+      <description>Biography Chathuranga Rajapaksha is a graduate of University of Moratuwa, Sri Lanka. His research interests include Artificial Intelligence, Machine Learning and Deep Learning. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet.</description>
+    </item>
+    
+  </channel>
+</rss>
