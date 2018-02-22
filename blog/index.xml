@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Chathuranga Rajapaksha</copyright>
-    <lastBuildDate>Sat, 13 May 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Feb 2018 18:34:26 +0530</lastBuildDate>
     
 	<atom:link href="https://clrajapaksha.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Welcome to machine age...!!!</title>
+      <link>https://clrajapaksha.github.io/blog/home/</link>
+      <pubDate>Thu, 22 Feb 2018 18:34:26 +0530</pubDate>
+      
+      <guid>https://clrajapaksha.github.io/blog/home/</guid>
+      <description>As we are Living in a most exciting time in history, we are very much fortunate to use the amazing technologies that would be considered as only exists in science fictions few decades back. This happens because of the fast advancement of artificial intelligence which has been severely blew up the tech world. Many tech giants around the world believe that machine learning is the next big thing and they dive into their new breakthroughs using machine learning heavily.</description>
+    </item>
     
     <item>
       <title>About</title>
@@ -35,15 +44,6 @@ Happy Coding!!!</description>
       <description> If you want to contact me, you can send me an e-mail
 Social media I am on socail media and we can discuss there:
  Twitter LinkedIn Google+  </description>
-    </item>
-    
-    <item>
-      <title>Welcome to machine age...!!!</title>
-      <link>https://clrajapaksha.github.io/blog/home/</link>
-      <pubDate>Fri, 12 May 2017 18:34:26 +0530</pubDate>
-      
-      <guid>https://clrajapaksha.github.io/blog/home/</guid>
-      <description>As we are Living in a most exciting time in history, we are very much fortunate to use the amazing technologies that would be considered as only exists in science fictions few decades back. This happens because of the fast advancement of artificial intelligence which has been severely blew up the tech world. Many tech giants around the world believe that machine learning is the next big thing and they dive into their new breakthroughs using machine learning heavily.</description>
     </item>
     
   </channel>
