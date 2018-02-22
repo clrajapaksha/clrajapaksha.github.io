@@ -49,10 +49,24 @@ Happy Coding!!!</description>
     
     <item>
       <title>About</title>
-      <link>https://clrajapaksha.github.io/about/about/</link>
+      <link>https://clrajapaksha.github.io/blog/about/</link>
       <pubDate>Sat, 13 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://clrajapaksha.github.io/about/about/</guid>
+      <guid>https://clrajapaksha.github.io/blog/about/</guid>
+      <description>Chathuranga Lakmal Rajapaksha Software Engineer, AI and Machine Learning Researcher
+I am very passionate about following topics,
+ Artificial Intelligence Machine Learning Deep Learning  You can find my projects and contribute on GitHub.
+Have questions or suggestions? Feel free to ask.
+Thanks for reading!
+Happy Coding!!!</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://clrajapaksha.github.io/about/me/</link>
+      <pubDate>Sat, 13 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://clrajapaksha.github.io/about/me/</guid>
       <description>Chathuranga Lakmal Rajapaksha Software Engineer, AI and Machine Learning Researcher
 I am very passionate about following topics,
  Artificial Intelligence Machine Learning Deep Learning  You can find my projects and contribute on GitHub.
